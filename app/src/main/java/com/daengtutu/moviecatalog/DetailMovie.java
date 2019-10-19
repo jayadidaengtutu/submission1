@@ -12,7 +12,7 @@ public class DetailMovie extends AppCompatActivity {
     TextView tvObjectJudul, tvObjectDesk;
     ImageView tvObjectImage;
     public static final String EXTRA_PERSON = "extra_person";
-    private String title ="Movie Detail";
+    private String title ="Movie Details";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
