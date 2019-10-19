@@ -1,0 +1,45 @@
+<resources>
+    <string name="judul_movie">Judul Film</string>
+    <string name="lorem">sebentar baru dikasih isi</string>
+    <string name="app_name">MovieCatalog</string>
+
+    <array name="data_poster_Movie">
+        <item>@drawable/breave</item>
+        <item>@drawable/glad</item>
+        <item>@drawable/kingdom</item>
+        <item>@drawable/lastsam</item>
+        <item>@drawable/lotr</item>
+        <item>@drawable/m300</item>
+        <item>@drawable/m10000</item>
+        <item>@drawable/mongol</item>
+        <item>@drawable/redcliff</item>
+        <item>@drawable/troy</item>
+    </array>
+
+
+    <string-array name="data_deskripsi">
+        <item>Film ini dibintangi oleh Mel Gibson yang juga duduk sebagai sutradara. Braveheart tergolong sebagai film kolosal sejarah.Film kolosar barat ini bercerita tentang seorang pahlawan Skotlandia bernama William Wallace yang melakukan perlawanan untuk membebaskan Skotlandia dari kekuasaan Inggris.</item>
+        <item>Film kolosal ini bersetting di kerajaan Romawi pada era pemerintahan Commodus. Cerita fiktif ini dibintangi oleh Russell Crowe sebagai General Maximus serta Joaquin Phoenix dan Connie Nielsen. Cerita film ini sebenarnya sederhana yakni tentang balas dendam seorang jendral perang yang difitnah oleh rajanya sendiri. Kekuatan film ini adalah riset yang mendalam dan visual yang spektakuler. Tidak heran jika film ini berhasil menyabet Oscar untuk kategori Best Picture dan Best Actor.</item>
+        <item>Ridley Scott kembali menyutradarai film sejarah-kolosal setelah mendapat kesuksesan di film Gladiator.Kali ini dia mengambil tema Perang Salib. Kingdom of Heaven bercerita tentang Balian, seorang pandai besi dari Perancis yang hidupnya berubah drastis setelah mengetahui bahwa ayahnya adalah Baron di kota Jerussalem.Balian yang pergi ke Jerusalem dengan motif mencari pengampunan Tuhan, kemudian berperan sebagai bangsawan dan turut membantu Raja Baldwin IV mempertahankan kota suci tersebut dari seranganWalaupun sejarah dalam film ini kontroversial, Kingdom of Heaven tetap diakui sebagai salah satu film sejarah kolosal terbaik yang pernah ada.</item>
+        <item>Jika biasanya Tom Cruise berperan sebagai mata-mata, maka kamu akan menyaksikan hal yang berbeda di film ini.The Last Samurai bercerita tentang mantan kapten perang Amerika, Nathan Algren (Tom Cruise) yang melatih pasukan Jepang untuk menumpas para samurai.Di tengah pertempuran, Nathan tertangkap dan dibawa ke suatu desa yang menjadi markas rahasia para Samurai. Selama disekap, Nathan justru mendapat pencerahan dan mulai mempelajari cara hidup Samurai.</item>
+        <item>Pada tahun 2001, 2002, dan 2003, sutradara Peter Jackson mengunggah cerita fiksi yang diilhami oleh karya sastra yang sangat fenomenal: The Lord of The Rings.Film ini mendapatkan respon positif baik dari penonton dan kritikus. Saking bagusnya, Trilogi The Lord of the Rings (LOTR) berhasil memenangkan sejumlah penghargaan Academy Awards.Film kolosal satu ini intinya bercerita tentang pertarungan epik yang terjadi antara golongan putih dan golongan hitam.Bisa dikatakan kalau LOTR menjadi film yang merepresentasikan masa depan atau nubuat mengenai akhir zaman alias kiamat.Jika kamu teliti, akan banyak tanda-tanda kiamat yang dimanifestasikan samar-samar lewat istilah-istilah, kronologi cerita, dan tokoh-tokoh fiktif.</item>
+        <item>300 adalah film perang kolosal fiksi yang diangkat dari novel karya Frank Miller. Film ini bercerita tentang 300 orang pasukan Spartan di bawah pimpinan Raja Leonidas yang harus berjuang dalam pertempuran kuno Thermopylae pada abad ke-6.Pasukan Spartan harus melawan tentara Persia di bawah pimpinan Raja Xerxes yang membawa pasukan sebanyak 300.000 orang prajurit.</item>
+        <item>10.000 BC menceritakan kehidupan sebuah suku di zaman prasejarah. Sekilas, setting film ini serupa dengan Apocalypto besutan Mel Gibson.Bedanya, Roland nampak tak ingin terlalu mempersulit penonton untuk mencerna jalan cerita. Oleh karena itu, 10.000 BC menampilkan dialog-dialog berbahasa Inggris, tidak seperti Apocalypto yang menggunakan bahasa suku Maya.</item>
+        <item>Mongol: The Rise of Gengis Khan, sebuah film kolosal yang menguak kisah hidup Gengis Khan dari sudut yang berbeda. Film ini bercerita lebih dalam mengenai pribadi Gengis Khan hingga menjadi sang penakluk.Film semi-historis ini digarap oleh sutradara asal Rusia, Sergei Bodrov. Dengan tangan dinginnya, Bodrov berhasil membuat film ini meraih Academy Award 2007 untuk kategori film berbahasa asing terbaik.</item>
+        <item>Red Cliff adalah karya luar biasa dari sutradara ternama, John Woo. Film ini menampilkan Cina di zaman kekaisaran.Film kolosal Cina yang bertemakan sejarah ini bercerita tentang penyerbuan yang dilakukan pasukan Kaisar Xian atas daerah Changban di bawah pimpinan Li Bei.Di film ini, Toppers akan menyaksikan perang besar-besaran yang sangat luar biasa secara visual. Red Cliff dapat disebut sebagai film kolosal Cina terbaik sepanjang masa.</item>
+        <item>Troy merupakan film perang kolosal bauatan Hollywood. Film ini dibesut oleh sutradara Wolfgang Petersen. Troy dibintangi oleh sejumlah aktor ternama seperti Brad Pitt, Eric Bana dan Orlando Bloom.Troy bisa disebut sebagai salah satu film kolosal terbaik sepanjang masa. Film yang rilis pada 14 Mei 2004 ini bercerita tentang kerajaan Troya yang diserang oleh pasukan Sparta.</item>
+    </string-array>
+
+    <string-array name="data_judul">
+        <item>Breave Heart</item>
+        <item>Gladiator</item>
+        <item>Kingdom Of Heaven</item>
+        <item>The Last Samurai</item>
+        <item>The Lord Of The Ring</item>
+        <item>300</item>
+        <item>10.000 BC</item>
+        <item>Mongol</item>
+        <item>Red Cliff</item>
+        <item>Troy</item>
+    </string-array>
+</resources>
